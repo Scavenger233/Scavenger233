@@ -2,7 +2,7 @@
 
 I'm Yiming Li, you can call me Yiming : )
 
-- 🌱 I’m currently pursuing a Master degree in Software Development: International Systems at the [University of Limerick](https://www.ul.ie/)
+- 🌱 I’m currently pursuing a Master degree in **Software Development: International Systems** at the [University of Limerick](https://www.ul.ie/)
 - 📫 How to reach me: <a href='mailto:siddharthprince31@gmail.com'>liyiminginireland@gmail.com </a>
 
 ## 🛠️ Technologies and Tools
