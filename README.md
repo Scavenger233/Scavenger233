@@ -22,9 +22,6 @@ I'm Yiming Li, you can call me Yiming : )
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 
 
-
-
-
 ## 📊 My Github Stats <a href='https://github.com/Scavenger233?tab=followers'><img src='https://img.shields.io/github/followers/Scavenger233?label=Followers&style=social'></a> <a href='https://github.com/Scavenger233'><img src='https://komarev.com/ghpvc/?username=Scavenger233'></a>
 <p align="center">
     <a href="https://git.io/streak-stats">
