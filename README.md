@@ -7,7 +7,7 @@ I'm Yiming Li, you can call me Yiming : )
 
 ## 🛠️ Technologies and Tools
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -17,7 +17,7 @@ I'm Yiming Li, you can call me Yiming : )
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![SQL](https://img.shields.io/badge/-SQL-007396?style=flat&logo=sql)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 
